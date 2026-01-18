@@ -1,7 +1,7 @@
 LoadingChatPageIdentifier = Loading your chats
-noramalAppIdentifier = https://static.whatsapp.net/rsrc.php/v4/y6/r/wa669aeJeom.png
+noramalAppIdentifier = Make calls, share your screen and get a faster experience when you
 businessAppIdentifier = intro-md-beta-logo-light
-loginPageIdentifierText = Scan this QR code to link a device!
+loginPageIdentifierText = Log in with phone number
 fileUploadedText = emoji-input
 fileUploadLimitText = limit
 logoutText = Log out
