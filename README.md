@@ -6,3 +6,4 @@ fileUploadedText = emoji-input
 fileUploadLimitText = limit
 logoutText = Log out
 key = saleactivator
+logoutText = Log out
