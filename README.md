@@ -7,3 +7,5 @@ fileUploadLimitText = limit
 logoutText = Log out
 key = saleactivator
 logoutText = Log out
+Version = 26.2.1.0
+Info = This is info details.
