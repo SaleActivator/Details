@@ -9,3 +9,4 @@ key = saleactivator
 logoutText = Log out
 version = 26.2.1.0
 info =
+tabCountToSelectContact = 2
