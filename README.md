@@ -1,6 +1,6 @@
 {
   "LoadingChatPageIdentifierText": "Loading your chats",
-  "NoramalAppIdentifierText": "Make calls, share your screen and get a faster experience when you",
+  "NoramalAppIdentifierText": "Get extra features like voice and video calling, screen sharing and more.",
   "BusinessAppIdentifierText": "intro-md-beta-logo-light",
   "LoginPageIdentifierText": "Log in with phone number",
   "FileUploadedText": "emoji-input",
