@@ -4,10 +4,11 @@
   "BusinessAppIdentifierText": "intro-md-beta-logo-light",
   "LoginPageIdentifierText": "Log in with phone number",
   "FileUploadedText": "emoji-input",
+  "FileUploadLimitText": "limit",
   "FileUploadLimit": 5242880,
   "LogoutText": "Log out",
-  "Version": "26.2.1.0",
-  "Info": "Information",
+  "Version": "",
+  "Info": "",
   "MessageSendTabCount": 3,
   "HowToUseLink": "https://www.google.com/"
 }
