@@ -1,12 +1,13 @@
-LoadingChatPageIdentifier = Loading your chats
-noramalAppIdentifier = Make calls, share your screen and get a faster experience when you
-businessAppIdentifier = intro-md-beta-logo-light
-loginPageIdentifierText = Log in with phone number
-fileUploadedText = emoji-input
-fileUploadLimitText = limit
-logoutText = Log out
-key = saleactivator
-logoutText = Log out
-version = 26.2.1.0
-info =
-tabCountToSelectContact = 2
+{
+  "LoadingChatPageIdentifierText": "Loading your chats",
+  "NoramalAppIdentifierText": "Make calls, share your screen and get a faster experience when you",
+  "BusinessAppIdentifierText": "intro-md-beta-logo-light",
+  "LoginPageIdentifierText": "Log in with phone number",
+  "FileUploadedText": "emoji-input",
+  "FileUploadLimit": 5242880,
+  "LogoutText": "Log out",
+  "Version": "26.2.1.0",
+  "Info": "Information",
+  "MessageSendTabCount": 3,
+  "HowToUseLink": "https://www.google.com/"
+}
