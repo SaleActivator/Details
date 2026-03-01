@@ -1,6 +1,6 @@
 {
   "LoadingChatPageIdentifierText": "Loading your chats",
-  "NoramalAppIdentifierLine1": "Menu",
+  "NoramalAppIdentifierLine1": "aria-label=\"Menu\"",
   "NoramalAppIdentifierLine2": "aria-label=\"New chat\"",
   "BusinessAppIdentifierText": "aria-label=\"Menu\"",
   "LoginPageIdentifierText": "Log in with phone number",
