@@ -1,7 +1,7 @@
 {
   "LoadingChatPageIdentifierText": "Loading your chats",
-  "NoramalAppIdentifierLine1": "aria-label="\"Menu"\"",
-  "NoramalAppIdentifierLine2": "aria-label="\"New chat"\"",
+  "NoramalAppIdentifierLine1": "aria-label=\\\"Menu\\\"",
+  "NoramalAppIdentifierLine2": "aria-label=\\\"New chat\\\"",
   "BusinessAppIdentifierText": "intro-md-beta-logo-light",
   "LoginPageIdentifierText": "Log in with phone number",
   "FileUploadedText": "emoji-input",
