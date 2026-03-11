@@ -6,7 +6,7 @@
   "LoginPageIdentifierText": "Log in with phone number",
   "FileUploadedText": "emoji-input",
   "FileUploadLimitText": "limit",
-  "FileUploadLimit": 5242880,
+  "FileUploadLimit": 31457280,
   "LogoutText": "Log out",
   "Version": "",
   "Info": "",
