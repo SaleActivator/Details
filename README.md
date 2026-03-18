@@ -10,6 +10,6 @@
   "LogoutText": "Log out",
   "Version": "",
   "Info": "",
-  "MessageSendTabCount": 3,
+  "MessageSendTabCount":3,
   "HowToUseLink": "https://www.google.com/"
 }
