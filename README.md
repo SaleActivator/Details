@@ -1,7 +1,7 @@
 {
   "LoadingChatPageIdentifierText": "Loading your chats",
-  "NoramalAppIdentifierLine1": "aria-label=\\\"Menu\\\"",
-  "NoramalAppIdentifierLine2": "aria-label=\\\"New chat\\\"",
+  "HomePageIdentifierLine1": "aria-label=\\\"Menu\\\"",
+  "HomePageIdentifierLine2 ": "aria-label=\\\"New chat\\\"",
   "BusinessAppIdentifierText": "intro-md-beta-logo-light",
   "LoginPageIdentifierText": "Log in with phone number",
   "FileUploadedText": "emoji-input",
@@ -10,6 +10,7 @@
   "LogoutText": "Log out",
   "Version": "",
   "Info": "",
-  "MessageSendTabCount":4,
+  "searchTextBlockRole": "textbox",
+  "searchTextAriaLabel": "Search or start a new chat",
   "HowToUseLink": "https://www.google.com/"
 }
