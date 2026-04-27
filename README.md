@@ -4,7 +4,7 @@
   "HomePageIdentifierLine2": "aria-label=\\\"New chat\\\"",
   "BusinessAppIdentifierText": "intro-md-beta-logo-light",
   "LoginPageIdentifierText": "Log in with phone number",
-  "FileUploadedText": "emoji-input",
+  "FileUploadedText": "ic-mood",
   "FileUploadLimitText": "limit",
   "FileUploadLimit": 31457280,
   "LogoutText": "Log out",
