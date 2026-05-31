@@ -12,5 +12,5 @@
   "Info": "",
   "searchTextBlockRole": "textbox",
   "searchTextAriaLabel": "Search or start a new chat",
-  "HowToUseLink": ""
+  "HowToUseLink": "https://www.google.com/"
 }
