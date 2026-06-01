@@ -13,5 +13,5 @@
   "searchTextBlockRole": "textbox",
   "searchTextAriaLabel": "Search or start a new chat",
   "HindiLink": "",
-  "EnglishLink": "https://timesofindia.indiatimes.com/",
+  "EnglishLink": "",
 }
